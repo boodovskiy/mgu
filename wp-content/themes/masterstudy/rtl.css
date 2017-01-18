@@ -1,0 +1,59 @@
+.socials_widget_wrapper .widget_socials {
+	padding-right: 0;
+	padding-left: 45px;
+	max-width: 265px;
+}
+
+.pull-left {
+	float: right !important;
+}
+
+.pull-right {
+	float: left !important;
+}
+
+.header_top_bar .header_login_url {
+	margin: 11px 42px 12px 0;
+}
+
+.header_top_bar .language-switcher-unit .stm_current_language.dropdown_toggle .fa {
+	margin-left: 0;
+	margin-right: 6px;
+}
+
+.search-toggler {
+	margin-left: 0;
+	margin-right: 33px;
+}
+
+.star-rating {
+	display: none;	
+}
+
+.stm_featured_products_unit .stm_featured_product_single_unit .stm_featured_product_single_unit_centered .stm_featured_product_footer .stm_featured_product_comments {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.simple_carousel_prev {
+	margin-left: 0;
+}
+
+.simple_carousel_next {
+	margin-right: 15px;
+}
+
+.single_product_after_title .meta-unit.teacher {
+	margin-right: 0;
+	margin-left: 55px;
+}
+
+.footer_widgets_wrapper .table_working_hours tr td,
+.stm_featured_products_unit .stm_featured_product_single_unit .stm_featured_product_single_unit_centered .stm_featured_product_body a .title,
+.stm_featured_products_unit .stm_featured_product_single_unit .stm_featured_product_single_unit_centered .stm_featured_product_body .expert {
+	text-align: right;
+}
+
+.footer_widgets_wrapper .table_working_hours tr td.day_value {
+	text-align: left;
+}
